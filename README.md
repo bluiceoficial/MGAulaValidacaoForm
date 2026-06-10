@@ -1,7 +1,9 @@
 # 📘 MGAulaValidacaoForm
 
 > [!NOTE]
-> Este repositório faz parte de uma aula prática realizada ao vivo na Twitch e no YouTube.
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/MGAulaValidacaoForm
+
+Este repositório faz parte de uma aula prática realizada ao vivo na Twitch e no YouTube.
 
 ## 🎯 Objetivo
 
