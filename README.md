@@ -3,7 +3,7 @@
 <!-- Badge opcional para deixar claro visualmente -->
 ![Status](https://img.shields.io/badge/status-arquivado--archived-red.svg)
 
-> **Aviso importante:** Está biblioteca foi **oficialmente arquivada** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
+> **Aviso importante:** Este sistema foi **oficialmente arquivado** e não receberá mais atualizações, correções de bugs ou suporte para novas versões.
 
 Este repositório faz parte de uma aula prática realizada ao vivo na Twitch e no YouTube.
 
